@@ -4,7 +4,9 @@
 
 ## Что исправляет
 
-- Доступ к серверам Minecraft Java и Bedrock Edition
+- Доступ к серверам Minecraft Java Edition (порт 25565)
+- Работа Discord (голосовые каналы, медиа, STUN)
+- Обход блокировок YouTube и Google (включая QUIC)
 - Доступ к платформам Modrinth, CurseForge, Forge, NeoForged, PrismLauncher и другим Minecraft-связанным ресурсам
 - Поддержка Game Filter для дополнительных игровых портов
 
